@@ -9,7 +9,7 @@
 		name: "HelloWorld",
 		data() {
 			return {
-				msg: "Test Netlify App",
+				msg: "Test Netlify App UPDATE!",
 			};
 		},
 	};
